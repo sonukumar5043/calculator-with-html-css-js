@@ -7,7 +7,7 @@ User-friendly and responsive interface
 
 Supports real-time calculation of expressions
 
-Basic operations: +, -, *, /, and . (decimal)
+Basic operations: +, -, *, /.
 
 
 
@@ -21,6 +21,7 @@ CSS – Styling and layout
 JavaScript – Functionality and logic using eval()
 
 🚀 How It Works
+
 The calculator UI is made using buttons for numbers and operators.
 
 When the user clicks buttons, their values are added to the input display.
