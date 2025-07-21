@@ -9,7 +9,7 @@ Supports real-time calculation of expressions
 
 Basic operations: +, -, *, /, and . (decimal)
 
-Clear (C) and backspace (⌫) functionality
+
 
 Built using pure HTML, CSS, and JavaScript (no external libraries)
 
